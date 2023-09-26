@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on CTF challenges.<br>🤝 I’m looking for help with threat modeling and secure coding practices.<br>🌱 I’m currently learning network defense at Cisco.<br>💬 Ask me about cyber security management <br>⚡ Fun fact : "A man's worth is no greater than the worth of his ambitions."
+🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on CTF challenges.<br>🤝 I’m looking for help with threat modeling and secure coding practices.<br>🌱 I’m currently learning network defense at Cisco.<br>💬 Ask me about cyber security management <br>⚡ Fun fact: "A man's worth is no greater than the worth of his ambitions."
 
 
 ## 🌐 Socials:
